@@ -1,0 +1,5 @@
+Package animals;
+
+public class Puppy{
+public String name="name";
+}
